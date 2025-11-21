@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0026. Remove Duplicates fr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0000. Example", "_0000. Example\_0000. Example.csproj", "{84E46C68-D36F-464C-AB99-9A1B3F20C4DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0027. Remove Element", "_0027. Remove Element\_0027. Remove Element.csproj", "{78A49FB6-171B-4C65-8B1F-58F392B8C25F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{84E46C68-D36F-464C-AB99-9A1B3F20C4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84E46C68-D36F-464C-AB99-9A1B3F20C4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84E46C68-D36F-464C-AB99-9A1B3F20C4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A49FB6-171B-4C65-8B1F-58F392B8C25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A49FB6-171B-4C65-8B1F-58F392B8C25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A49FB6-171B-4C65-8B1F-58F392B8C25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A49FB6-171B-4C65-8B1F-58F392B8C25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
