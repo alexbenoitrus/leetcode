@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0028. Find the Index of th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0058. Length of Last Word", "_0058. Length of Last Word\_0058. Length of Last Word.csproj", "{D07A8F93-1617-4D88-B21C-21BAFB307B03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_0066. Plus One", "_0066. Plus One\_0066. Plus One.csproj", "{39520306-222A-4FEB-B45F-D666CA4AA298}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,18 @@ Global
 		{D07A8F93-1617-4D88-B21C-21BAFB307B03}.Release|x64.Build.0 = Release|Any CPU
 		{D07A8F93-1617-4D88-B21C-21BAFB307B03}.Release|x86.ActiveCfg = Release|Any CPU
 		{D07A8F93-1617-4D88-B21C-21BAFB307B03}.Release|x86.Build.0 = Release|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Debug|x64.Build.0 = Debug|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Debug|x86.Build.0 = Debug|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Release|x64.ActiveCfg = Release|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Release|x64.Build.0 = Release|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Release|x86.ActiveCfg = Release|Any CPU
+		{39520306-222A-4FEB-B45F-D666CA4AA298}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
